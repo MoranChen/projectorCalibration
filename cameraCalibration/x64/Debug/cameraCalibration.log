@@ -1,0 +1,12 @@
+﻿  源.cpp
+\\mac\home\downloads\opencv3.2\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\mac\home\downloads\opencv3.2\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\mac\home\downloads\opencv3.2\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\mac\home\downloads\opencv3.2\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\mac\home\downloads\opencv3.2\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\developer\projectorcalibration\cameracalibration\源.cpp(37): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\developer\projectorcalibration\cameracalibration\源.cpp(50): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\developer\projectorcalibration\cameracalibration\源.cpp(158): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\developer\projectorcalibration\cameracalibration\源.cpp(159): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  cameraCalibration.vcxproj -> C:\developer\projectorCalibration\x64\Debug\cameraCalibration.exe
+  cameraCalibration.vcxproj -> C:\developer\projectorCalibration\x64\Debug\cameraCalibration.pdb (Full PDB)
